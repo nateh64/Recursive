@@ -14,6 +14,36 @@ function buildPath;(arrayLength, percentageofTraps)
         }
     }
 }
+if(path[arrayLength+1=true])
+{
+  return path;
+{
+  function stroll(patharray, index){
+    if (index==pathArray.length-1)
+    return 1;
+    {
+      if (pathArray==false){
+        return 0;
+        else{
+          return stroll(pathArray, index);
+
+        }
+        function rsj(pathArray, index)
+            }
+            if (index== pathArray-1){
+              return 1;
+            }
+            if (pathArray[index]== false, index>=pathArray.length){
+              return 0;
+            }
+            else {
+              return rsj(pathArray, index+1)+ rsj(pathArray, index+1)
+            }
+            }
+    }
+  }
+}
+}
 
 
 
